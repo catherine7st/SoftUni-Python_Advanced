@@ -1,0 +1,22 @@
+The first command creates the empty file
+After the first and second Add command, the content is:
+First Line
+Second Line
+On the first Replace command, an error must occur
+After the next two Replace commands, the content is:
+1st Line
+2nd Line
+After the first Delete command, an error occurs
+Finally, the 'file.txt' file is deleted
+
+The first @@@@@@ creates the empty file
+After the first and second Add @@@@@@, the content is:
+First Line
+Second Line
+On the first Replace @@@@@@, an error must occur
+After the next two Replace @@@@@@s, the content is:
+1st Line
+2nd Line
+After the first Delete @@@@@@, an error occurs
+Finally, the 'file.txt' file is deleted
+
